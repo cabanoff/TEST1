@@ -1,3 +1,5 @@
 Первый коммит, создание файла
 
 добавляем текст для ветки1
+
+add some text to new commit in branch 1
